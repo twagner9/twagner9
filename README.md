@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twagner9
 - 👀 I’m interested in improving my knowledge in programming and software development.
-- 🌱 I hold a Bachelor's of Biochemistry.
+- 🌱 I hold a B.S in Biochemistry from UW-Madison.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email at: timwagner240@gmail.com
 
